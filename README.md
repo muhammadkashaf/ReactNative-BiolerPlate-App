@@ -19,7 +19,4 @@
 9. Enjoy!!!
 
 
-## Contributing
 
-PRs are welcome
-"# ReactNative-BiolerPlate-App" 
